@@ -1,0 +1,9 @@
+{
+    "username": "",
+    "password": "",
+    "grade_group_robot_mapping": {
+        "21": "https://oapi.dingtalk.com/robot/send?access_token="
+    },
+    "misstime_dayrange": 7,
+    "misstime_ding_mintime": 2
+}
